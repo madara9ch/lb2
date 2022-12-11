@@ -1,0 +1,27 @@
+header{
+	width: 100%; 
+	height: 95px;
+	background-color: MediumAquamarine;
+	}
+nav {
+margin: 0 auto; 
+width: 700px; height: 50px;
+background-color: Brown;
+float: left;
+}
+main {
+width: 100%; height: 650px; 
+background-color: PaleGreen; 
+float: right;
+}
+article {
+width: 20%; height: 120px; 
+background-color: White; 
+float: right;
+}
+footer {
+width: 100%; 
+height: 120px;
+background-color: HotPink;
+float: right;
+}
